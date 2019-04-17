@@ -1,4 +1,11 @@
 ---
 label: test
 hide_body: false
-fields: []
+fields:
+- type: text
+- type: textarea
+  name: content
+  label: Content
+- type: file
+  name: page_banner
+  label: page_banner
