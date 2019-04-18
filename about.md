@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/02/17/college-building.jpg"
+banner_image: ''
 heading: About Belkirk
 sub_heading: Ora et Labora
 layout: landing-page
@@ -10,9 +10,9 @@ textline: A multidisciplinary centre of experts who are essential to patient-ori
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 services:
-- heading: ''
-  description: ''
-  icon: ''
+- heading: Sample
+  description: adad
+  icon: "/uploads/2018/02/17/city.jpg"
 partners:
 - "/uploads/2018/12/07/compass.jpg"
 menu:
